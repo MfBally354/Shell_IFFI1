@@ -1,0 +1,8 @@
+if [ kondisi ]; then
+    echo "ini true"
+elif [ kondisi_lain ]; then
+    echo "ini kondisi kedua"
+else
+    echo "ini false"
+fi
+
